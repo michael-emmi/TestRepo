@@ -22,6 +22,4 @@ B.
 
 C.
 
-D.
-
 One last line.
